@@ -5,9 +5,9 @@ public class punto2 {
 		System.out.println(s);
 	}
 	
-	static int ternario(int i)
+	static void temario(int i)
 	{
-		return i < 10 ? i * 100 : i * 10;
+		
 	}
 	
 	static int alternativo(int i)
@@ -28,12 +28,6 @@ public class punto2 {
 		// TODO Auto-generated method stub
 		alternativo(30);
 		alternativo(3);
-		int val1 = ternario(30);
-		int val2 = ternario(4);
-		System.out.println("Ternario " + val1);
-		System.out.println("Ternario2 " + val2);
-
-	
 	}
 
 	

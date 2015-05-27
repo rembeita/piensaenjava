@@ -29,7 +29,7 @@ public class punto2 {
 		alternativo(30);
 		alternativo(3);
 		int val1 = ternario(30);
-		int val2 = ternario(4);
+		int val2 = ternario(3);
 		System.out.println("Ternario " + val1);
 		System.out.println("Ternario2 " + val2);
 

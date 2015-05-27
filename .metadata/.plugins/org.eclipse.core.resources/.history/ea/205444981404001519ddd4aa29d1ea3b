@@ -1,9 +1,7 @@
 
 public class punto3 {
-	
 	static int prueba(int intento, int solucion){
 		int resultado = 0;
-	
 		if (intento > solucion){
 			resultado = +1;
 		}
