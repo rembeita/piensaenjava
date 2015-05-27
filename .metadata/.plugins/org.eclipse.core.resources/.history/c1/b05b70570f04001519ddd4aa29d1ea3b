@@ -1,0 +1,20 @@
+
+public class precedencia {
+
+	static void visualizar(String s){
+		System.out.println(s);
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int preseden1;
+		int preseden2;
+		
+		preseden1 = 10 + 20 * 2 * 5;
+		preseden2 = (10 + 20) * 2 * 5;
+		visualizar("El valor es " + preseden1);
+		visualizar("El valor es " + preseden2);
+		
+	}
+
+}
