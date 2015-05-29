@@ -1,0 +1,11 @@
+
+public class ejercicio2 {
+
+	static public void main (String args[]){
+		double j = Math.random();
+		System.out.println(j);
+		
+	}
+	
+	
+}
